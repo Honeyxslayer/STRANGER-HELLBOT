@@ -1,4 +1,4 @@
-<h1 align="center">
+AA<h1 align="center">
   <b>𝐓𝐇𝐄 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑-𝐇𝐄𝐋𝐋𝐁𝐎𝐓 🇮🇳</b>
 </h1>
 
@@ -48,7 +48,7 @@
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-HELLBOT)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Honeyxslayer/STRANGER-HELLBOT)
 
 ------
 ## Deploy on Railway
